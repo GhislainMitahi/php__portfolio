@@ -1,0 +1,33 @@
+body {}
+
+.image {
+    height: 150px;
+    width: 150px;
+}
+
+.carte {
+    height: 30%;
+    width: 50%;
+}
+
+.detail {
+    width: 300px;
+}
+
+.div-main {
+    height: auto;
+}
+
+.main-card {
+    height: auto;
+}
+
+.foter {
+    height: 30vh;
+    background-color: black;
+}
+
+.pof-navbar {
+    background-color: rgba(0, 0, 0, 0.55);
+    box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.54);
+}

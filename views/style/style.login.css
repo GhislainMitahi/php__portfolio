@@ -1,0 +1,25 @@
+.main {
+    background-color: rgb(14, 113, 226);
+    height: 100vh;
+}
+
+form {
+    width: 400px;
+    height: 500px;
+}
+
+reboot {
+    margin: 0px;
+}
+
+div {
+    margin: 0px;
+}
+
+.field {
+    width: 350px;
+}
+
+.fa-cog {
+    color: black;
+}
